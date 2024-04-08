@@ -1,0 +1,53 @@
+{
+	"name": "hyphen-sanitizer",
+	"version": "0.1.0",
+	"description": "Simplifying text by replacing hyphens with ease",
+	"license": "MIT",
+	"repository": "palashmon/hyphen-sanitizer",
+	"author": "Palash Mondal <palashm@live.in>",
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"sideEffects": false,
+	"engines": {
+		"node": ">=18"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"lint": "xo --fix"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"alter",
+		"code",
+		"convert",
+		"edit",
+		"format",
+		"function",
+		"hyphen",
+		"javascript",
+		"library",
+		"modify",
+		"modifystring",
+		"replace",
+		"replacehyphen",
+		"sanitize",
+		"sanitizer",
+		"string",
+		"strings",
+		"substitute",
+		"text",
+		"tool",
+		"transform",
+		"utility"
+	],
+	"devDependencies": {
+		"ava": "^6.0.0",
+		"xo": "^0.56.0"
+	}
+}
