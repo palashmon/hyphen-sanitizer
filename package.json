@@ -1,6 +1,6 @@
 {
 	"name": "hyphen-sanitizer",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Simplifying text by replacing hyphens with ease",
 	"license": "MIT",
 	"repository": "palashmon/hyphen-sanitizer",
